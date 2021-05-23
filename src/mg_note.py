@@ -1,3 +1,6 @@
+import copy
+
+
 class MgNote:
     """A note only"""
     # value = 1
