@@ -885,7 +885,7 @@ def main(argv):
 	if options['output']:                       
 		musgen.save(options['output'])
 	else:
-		print musgen.lilypond()
+		print(musgen.lilypond())
 		
 
 main(sys.argv)
