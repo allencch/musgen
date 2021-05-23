@@ -30,6 +30,12 @@ timidity output.midi
 ```
 
 
+# Limitations
+
+* The script uses pre-defined music chord progressions.
+* The script only generates time signature 4-4.
+
+
 # Deprecated notes
 
 Musgen is only the engine.

@@ -52,7 +52,7 @@ def main(argv):
     if options['pdf']:
         musgen.showLayout(True)
 
-    musgen.randMusic(1)
+    # musgen.randMusic(1)
 
     if options['tempo']:
         musgen.setTempo(int(options['tempo']))
